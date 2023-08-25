@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #f5f0fe;
+  }
+h1 {
+    color: #885df1;
+    text-decoration: underline;
+    font-size: 46px;
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+  ul{
+    text-align: center;
+    list-style-type: none;
+    margin: 1rem 0;
+  }
+  ul a{
+    text-decoration: none;
+  }
+  .coders a{
+    color: red;
+  }
+  .courses a{
+    color: blue;
+  }
+  .stories a{
+    color: green;
+  }
+  .more-info{
+    text-align: center;
+  }
+  .image{
+    width: 50rem;
+  }
+  
